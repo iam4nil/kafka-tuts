@@ -1,0 +1,1 @@
+%KAFKA_HOME%\bin\windows\kafka-topics.bat --create --topic hello-producer-topic --partitions 5 --replication-factor 1 --bootstrap-server localhost:9092
